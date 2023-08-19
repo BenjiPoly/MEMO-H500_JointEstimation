@@ -1,3 +1,8 @@
+################
+# Function used to score the models. Due to time constraints, the parametrisation is limited.
+# Parameters changed for every model and every parameters
+################
+
 import numpy as np
 import more_itertools
 import utilities
