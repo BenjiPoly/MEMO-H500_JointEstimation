@@ -1,3 +1,7 @@
+###############
+# Function used do generate some of the visuals
+###############
+
 import json
 import math
 import random
