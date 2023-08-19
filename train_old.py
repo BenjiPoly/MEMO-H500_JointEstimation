@@ -1,3 +1,7 @@
+#################
+# Functions to train the models during proof of concept
+#################
+
 import model
 import utilities
 import torch
