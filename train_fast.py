@@ -1,3 +1,8 @@
+#################
+# Fucntion used to train the models.
+# Accelerated with better data management
+#################
+
 import model2 as model
 import utilities
 import torch
