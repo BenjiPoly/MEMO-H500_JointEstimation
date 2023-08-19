@@ -1,3 +1,9 @@
+####################
+# Modification of the model_fast.py file
+# Change in the __getitem__ function to implement the resynchronization
+####################
+
+
 import torch
 import torch.nn as nn
 import json
