@@ -1,3 +1,7 @@
+#############
+# File used for most of the work to link the different functions
+# Almost no function as often used only once
+#############
 import pandas as pd
 
 import pre_processing
@@ -12,9 +16,6 @@ import numpy as np
 import more_itertools
 import os
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
