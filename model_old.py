@@ -1,3 +1,7 @@
+################
+# Model used for the proof of concept, was too slow
+################
+
 import torch
 import torch.nn as nn
 import json
