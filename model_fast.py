@@ -1,3 +1,6 @@
+#################
+# Model used for the experiments with the data management modification
+#################
 import torch
 import torch.nn as nn
 import json
