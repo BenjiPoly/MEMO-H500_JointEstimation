@@ -1,3 +1,7 @@
+################
+# Functions used for the generation of the CSVs, the valid frame selection and the data management modifications
+################
+
 import csv
 import json
 import numpy as np
