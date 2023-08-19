@@ -1,3 +1,7 @@
+#################
+# Set of utility functions. Some are deprecated after data management optimisation
+#################
+
 import os
 
 import open3d as o3d
